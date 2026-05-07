@@ -1,6 +1,6 @@
 # Biodata-CV
 
-# # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Qumara Rezky
+# # Hi there, I'm Qumara Rezky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Management+%26+UI%2FUX+Enthusiast;Front-End+Developer;Vocational+High+School+Student;Open+for+Internship+Opportunities" alt="Typing SVG" />
