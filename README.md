@@ -9,7 +9,7 @@
 ---
 My Portofolio :https://kumarsukacoding.github.io/
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 
 Saya adalah siswa SMK yang memiliki minat di bidang:
 
