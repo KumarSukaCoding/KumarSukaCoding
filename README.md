@@ -1,120 +1,135 @@
-# Biodata-CV
+<div align="center">
 
-# Hi there, I'm Qumara Rezky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Qumara%20Rezky&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Data%20Management&descSize=16&descAlignY=60&descColor=a8d8ea&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Management+%26+UI%2FUX+Enthusiast;Front-End+Developer;Vocational+High+School+Student;Open+for+Internship+Opportunities" alt="Typing SVG" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hi%2C+I'm+Qumara+Rezky!;Front-End+Developer+%26+UI%2FUX+Enthusiast;Data+Management+%26+Digital+Product+Design;SMK+Student+Open+for+Internship+🚀)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logoColor=white)](https://kumarsukacoding.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-KumarSukaCoding-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KumarSukaCoding)
+[![Gmail](https://img.shields.io/badge/Gmail-qumararezky@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qumararezky@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+</div>
 
 ---
-## My Portofolio :
-https://kumarsukacoding.github.io/
 
-## 👨🏻‍💻 About Me
+## 🧑‍💻 About Me
 
-Saya adalah siswa SMK yang memiliki minat di bidang:
+```yaml
+name       : Qumara Rezky
+status     : SMK Student — Open for Internship
+location   : Indonesia 🇮🇩
+interests  : Front-End Development · UI/UX Design · Data Management
+learning   : React JS · Advanced CSS · Data Analytics
+portfolio  : https://kumarsukacoding.github.io/
+quote      : "Keep Learning, Keep Building, Keep Growing."
+```
 
-- 📊 Data Management & Data Analyst
-- 🎨 UI/UX Design
-- 💻 Front-End Development
-- 📈 Digital Product Design
+<br/>
 
-Saya senang membangun tampilan website modern, responsive, dan user-friendly menggunakan teknologi web modern serta terus belajar mengembangkan skill di dunia teknologi.
+I enjoy crafting **modern, responsive, and user-friendly** web interfaces using
+the latest web technologies — and I'm always eager to learn and grow in the tech world.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Front-End
+<div align="center">
+
+### 💻 Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### 📊 Productivity
+### 📊 Productivity & Database
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🌐 Personal CV Website
-Website CV modern dan responsive untuk kebutuhan portfolio dan internship.
+<div align="center">
 
-### 📚 School Library Database
-Project database perpustakaan berbasis PHP & MySQL.
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| 🌐 **Personal CV Website** | Modern & responsive portfolio for internship purposes | HTML · CSS · JS |
+| 📚 **School Library Database** | Library management system for a school | PHP · MySQL |
+| 🎮 **ML Topup & Joki Website** | Gaming service landing page with modern design | HTML · CSS · JS |
 
-### 🎮 ML Topup & Joki Website
-Landing page topup dan jasa gaming dengan desain modern.
+</div>
+
+> 💡 See all projects on my **[Portfolio →](https://kumarsukacoding.github.io/)**
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KumarSukaCoding&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KumarSukaCoding&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KumarSukaCoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSukaCoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
-## 🔥 Contribution Streak
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KumarSukaCoding&theme=tokyonight&hide_border=false"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=KumarSukaCoding&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" />
 
-## 📫 Connect With Me
+</div>
 
-<p align="left">
-  <a href="https://github.com/KumarSukaCoding">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumarSukaCoding&theme=tokyo-night&hide_border=true&radius=8)
 
-  <a href="mailto:qumararezky@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Belajar React JS
-- Mengembangkan UI/UX Skill
-- Menguasai Microsoft Office
-- Mencari Pengalaman Magang di Bidang Teknologi
+<div align="center">
+
+| 🚀 Goal | 📌 Status |
+|:--------|:----------|
+| Learning React JS | 🔄 In Progress |
+| Sharpening UI/UX Skills | 🔄 In Progress |
+| Mastering Microsoft Office | 🔄 In Progress |
+| Seeking Internship in Tech | 🟢 Open Now |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Keep Learning, Keep Building, Keep Growing."</i>
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 
-<!--
-**KumarSukaCoding/KumarSukaCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Keep Learning, Keep Building, Keep Growing."*
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=KumarSukaCoding&color=58A6FF&style=flat-square&label=Profile+Views)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
