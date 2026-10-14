@@ -33,7 +33,7 @@ status     : SMK Student — Open for Internship
 location   : Indonesia 🇮🇩
 interests  : Front-End Development · UI/UX Design · Data Management
 learning   : React JS · Advanced CSS · Data Analytics
-portfolio  : https://kumarsukacoding.github.io/
+portfolio  : https://portoqumara.page.gd/?i=1
 quote      : "Keep Learning, Keep Building, Keep Growing."
 ```
 
