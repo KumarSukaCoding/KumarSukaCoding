@@ -81,7 +81,7 @@ the latest web technologies — and I'm always eager to learn and grow in the te
 
 </div>
 
-> 💡 See all projects on my **[Portfolio →](https://kumarsukacoding.github.io/)**
+> 💡 See all projects on my **[Portfolio →](https://portoqumara.page.gd/?i=1)**
 
 ---
 
